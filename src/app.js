@@ -376,7 +376,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry("AirHua", {
+      var geometry = new THREE.TextGeometry("gca", {
         font: font,
         size: 3,
         height: 0.5,
@@ -420,7 +420,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry('Life is loving', {
+      var geometry = new THREE.TextGeometry('welcome', {
         font: font,
         size: 1.5,
         height: 0.5,
@@ -1064,7 +1064,7 @@ Ammo().then((Ammo) => {
       4,
       1,
       boxTexture.mail,
-      'airhua602@gmail.com',
+      '1637872839@qq.com',
       0x000000,
       false
     );
@@ -1114,7 +1114,7 @@ Ammo().then((Ammo) => {
     // 板块文字
     simpleText(-50, 0.01, -5, 'SKILLS', 3);
     simpleText(-42, 0.01, -30, 'WORKS', 3);
-    simpleText(61, 0.01, -15, 'WISHES', 3);
+    simpleText(61, 0.01, -20, 'WISHES', 3);
 
     wallOfBricks();
     createTriangle(63, -55);
