@@ -1087,7 +1087,7 @@ Ammo().then((Ammo) => {
     floatingLabel(11.875, 4.5, -70, 'Github');
     floatingLabel(19.125, 4.5, -70, 'BiliBili');
     floatingLabel(26.875, 4.5, -70, 'Email');
-    floatingLabel(35, 4.5, -70, 'QQ');
+    floatingLabel(35, 4.5, -70, 'Game');
 
     // 图片贴图
     allSkillsSection(-50, 0.025, 20, 40, 40, boxTexture.allSkills);

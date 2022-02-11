@@ -49,7 +49,7 @@ URL.gitHub = 'https://github.com/fireonice';
 URL.BiliBili = 'https://www.bilibili.com/';
 URL.email = 'https://1637872839@qq.com';
 URL.music = 'https://music.qier222.com/';
-URL.devTo = 'https://fireonice.github.io/';
+URL.devTo = 'https://web-game-9gh6nrus14fec37e-1252170212.tcloudbaseapp.com/';
 
 export {
   billboardTextures,
