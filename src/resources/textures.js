@@ -42,16 +42,14 @@ SVG.reactLogo = 'src/jsm/react-svg.svg';
 
 // 链接的跳转地址
 let URL = {};
-URL.blog =
-  'https://huabyte.com';
+URL.blog = 'https://fireonice.github.io/';
 URL.ryanfloyd = 'https://huabyte.com';
-URL.fund = 'https://github.com/AirHua-byte/FundSpider';
-URL.gitHub = 'https://github.com/AirHua-byte';
-URL.BiliBili = 'https://space.bilibili.com/450443708';
-URL.email = 'https://airhua602@gmail.com';
-URL.music = 'https://music.huabyte.com';
-URL.devTo =
-  'http://wpa.qq.com/msgrd?v=3&uin=3301833942&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:3301833942:41';
+URL.fund = '';
+URL.gitHub = 'https://github.com/fireonice';
+URL.BiliBili = 'https://www.bilibili.com/';
+URL.email = 'https://1637872839@qq.com';
+URL.music = 'https://music.qier222.com/';
+URL.devTo = 'https://fireonice.github.io/';
 
 export {
   billboardTextures,
